@@ -1,0 +1,1172 @@
+a couple of ...|少数の…|11 
+a few (...)|少数の…|4|201 
+a good many ...|非常に多くの…|192 
+a good/great deal of ...|たくさんの|283 
+a great many ...|非常に多くの…|272 
+a handful of ...|一握りの…|71 
+a little|少し|26 
+a (little) bit|少し|114 
+a little too ...|少し…過ぎる|130 
+a lot of ...|たくさんの…|151 
+a minute|少しの間|288 
+a moment|少しの間|40 
+a multitude of ...|多数の…|370 
+a number of ...|いくつかの…|162 
+a pile/piles of ...|山のような…|304 
+a point of view|観点，見方|150 
+a second|少しの間|105 
+a series of ...|一連の…|27 
+a succession of ...|一連の…|259 
+a variety of ...|さまざまな…|229 
+a ... of mine|私の…|38 
+a 時間［数量］の名詞 (= per ...)|１…当たり|1 
+a 形容詞 amount of ...|＜形容詞＞な量の…|178 
+a 形容詞 number of ...|＜形容詞＞な数の…|220|409 
+above all|とりわけ|397 
+according to ...|…によれば|27|226 
+account for ...|…を説明する|368|416 
+accuse A of B|AがBであるとして非難する|225 
+adapt (oneself) to ...|…に適応する|228 
+add A to B|AをBに付け加える|216 
+advise ... to Vb|…にVするよう勧める|310 
+after a while|しばらくして|107 
+after all|結局|53|351 
+against a/the background of ...|…を背景にして|68 
+agree to ...|…を承諾する|52 
+agree to Vb|Vすることに同意する|196 
+agree with ...|…に賛成である|356 
+ahead of ...|…の前方に|370 
+aim to Vb|Vすることを目指す|95 
+all at once|突然|331 
+all but 名詞|…を除いて全て|188 
+all but 形容詞|ほとんど…|337 
+all day long|一日中|102 
+all of a sudden|突然|199 
+all over ...|…の至る所に|1 
+all right|OKである|327 
+All ... have to do is (to) Vb.|…はただＶしさえすればよい。|224 
+all the time|いつでも|322 
+all the 比較級 (for ...)|（…が理由で）なお一層…|407 
+all/only too ...|非常に…|256 
+allow ... to Vb|…がＶするのを許す|54 
+along with ...|…と共に|328 
+among other things|中でも（特に），とりわけ|120 
+amount to ...|（総計が）…に達する|386 
+an average of ...|平均…|1 
+and yet|しかし|248|350 
+A and B alike|AもBも同様に|385 
+A and B, respectively|AとB，それぞれ|342 
+... and I|私と…|90 
+... and so forth|…など|119 
+... and so on|…など|91 
+..., and the like|…など|410 
+anything but ...|決して…でない|365 
+apologize to A for B|Bが理由でAに謝罪する|171 
+appear to have Vp.p.|Ｖしたようだ|69 
+apply for ...|…を申し込む|340 
+apply to ...|…に当てはまる|205 
+approve of ...|…をよいと認める|418 
+arise from/out of ...|…から生じる|370 
+arrange for ... to Vb|…がVするように手配する|270 
+as a consequence (of ...)|（…の）結果|27 
+as a matter of fact|実際のところ|205 
+as a result (of ...)|（…の）結果|215 
+as a rule|一般に，ふつうは|375 
+as a token of ...|…のしるしとして|37 
+... as a whole|…全体|312 
+as follows|次のように|22 
+as for ...|…はというと|29 
+as good as ...|…も同然で|355 
+as if ～|まるで～かのように|331|393 
+as is often the case|これはよくあることだが|233 
+as it is|現状では|333 
+as it turned out|実際にはどうなったかと言うと|17 
+as it were|言わば|49 
+as long as ...|なんと…も（の長さで）|12 
+as many/much A as B|Bと同じ数/量のA|210 
+as much as ...|なんと…も（の量・額で）|340 
+as of ...|（特定の日付）から|18 
+as opposed to ...|…とは対照的に|262 
+as ... please|…の好きなように|271 
+as soon as possible|できるだけ早く|23 
+as though ～|まるで～かのように|331 
+as to ...|…に関して|199|275 
+as usual|いつものように|406 
+as well|同様に|25 
+as well as ...|…と同様に|389 
+as/so far as ～|…する範囲では|63|266 
+as/so far as ... is concerned|…に関する限り|266 
+as/so long as ～|～する限り|266 
+ascend the throne|王位に就く|129 
+aside from ...|…の他にも|307 
+ask ... if ～|…に～かどうかを尋ねる|373 
+assign A to B|AをBに割り当てる|50 
+at best|せいぜい|412 
+at first|最初は|34 
+at first sight|一目見て|319 
+at home|自国で|278 
+at last|ついに|42 
+at least|少なくとも|63 
+at length|詳しく，長々と|398 
+at one's disposal|自由に使える|178 
+at present|現在は|3 
+at the expense of ...|…を犠牲にして|95 
+at the latest|遅くとも|277 
+at the moment|現時点では|2 
+at (the) most|最大でも，せいぜい|264 
+at the sight of ...|…を見て|180 
+at the/that time|当時は|121 
+at times|時々|66 
+at (the) worst|最も悪く言えば|412 
+attend to ...|…に対処する|103 
+attribute A to B|AをBのせいだとする|31 
+avoid Ving|Vすることを避ける|128 
+back and forth|行ったり来たりして|166 
+badly off|貧しい|227 
+bar ... from Ving|…がＶすることを妨げる|216 
+be about to Vb|Ｖする寸前である|331 
+be absorbed in ...|…に没頭している|170 
+be acquainted with ...|…と知り合いである|243 
+be afraid of ...|…を恐れる|347 
+be against ...|…に反対である|75 
+be alleged to Vb|（証拠なしに）Ｖだとされている|122 
+be anxious to Vb|とてもＶしたがっている|115 
+be apt to Vb|Ｖする傾向がある|267 
+be ashamed of ...|…を恥じている|291 
+be at a loss|途方に暮れている|275 
+be aware of ...|…に気づいている|219 
+be based on ...|…を基礎［根拠］にしている|239 
+be believed to Vb|Ｖだと信じられている|262 
+be bound for ...|…に向かっている|245 
+be bound to Vb|必ずＶする|280 
+be busy Ving|Ｖするのに忙しい|185 
+be capable of ...|…が可能である|220 
+be careful not to Vb|Ｖしないように気をつける|97 
+be certain (that) ～ .|～を確信している|282 
+be certain to Vb|Ｖするのは確実だ|282 
+be concerned about ...|…について心配している|219 
+be concerned with ...|…とかかわりがある|76 
+be content with ...|…に満足している|341 
+be convenient for ...|…にとって都合がよい|21 
+be convinced of ...|…を確信している|215 
+be covered with ...|…に覆われている|180 
+be crazy about ...|…に夢中である|300 
+be deep in thought|物思いにふけっている|264 
+be designed to Vb|Ｖするよう意図されている|155 
+be determined to Vb|Ｖしようと固く決意している|414 
+be different from ...|…とは異なる|150 
+be due to Vb|Ｖする予定である|20 
+be eager to Vb|Ｖしたいと強く願う|116 
+be engaged in ...|…に従事している|222 
+be engaged to ...|…と婚約している|44 
+be envious of ...|…をうらやんでいる|84 
+be equivalent to ...|…に等しい|7 
+be expected to Vb|Ｖすることを期待［要求］される|92 
+be familiar with ...|…に馴染みがある|194 
+be famous for ...|…で有名である|211 
+be fed up (with ...)|（…に）うんざりしている|312 
+be filled with ...|…で満たされている|208|278 
+be fit for ...|…に適している|130 
+be fond of ...|…が好きである|363 
+be for ...|…に賛成である|75 
+be full of ...|…でいっぱいである|341 
+be going to Vb|Ｖすることになっている|60 
+be good at ...|…が上手だ|343 
+be good for ...|…にとって良い|400 
+be in favor of ...|…に賛成である|251 
+be in need of ...|…を必要としている|344 
+be in trouble|困っている|248 
+be inclined to Vb|Ｖする傾向がある|418 
+be independent of ...|…から独立している|104 
+be indifferent to ...|…に無関心である|278 
+be interested in ...|…に興味がある|74 
+be involved in ...|…に関わっている|131 
+be jealous of ...|…をうらやんでいる|351 
+be keen on ...|…にとても関心がある|413 
+be known as ...|…と呼ばれている，…として知られている|202 
+be late Ving|Ｖするのが遅い|166 
+be liable to Vb|Ｖしがちである|392 
+be likely to Vb|Ｖする可能性が高い|308 
+be made of ...|…でできている|387 
+be meant to Vb|Ｖすることを意図されている|358 
+be moved to tears|心を動かされて涙を流す|362 
+be new to ...|…に対して経験が浅い|245 
+be not much of a ...|たいした…ではない|66 
+be not sure 間接疑問文|～に確信がない|274 
+be obliged to Vb|Ｖすることを余儀なくされる|263 
+be on ～ terms with ...|…とは～な間柄である|195 
+be opposed to ...|…には反対である|75 
+be out of breath|息が切れている|114 
+be over|終わっている|355 
+be particular about ...|…に関して好みがうるさい|135 
+be preoccupied with ...|…のことしか頭にない|80 
+be prepared to Vb|Ｖする準備が出来ている|182 
+be proud of ...|…のことを自慢に思う|120 
+be ready to Vb|…する準備が出来ている|174 
+be related to ...|…と関係がある|342 
+be reluctant to Vb|Ｖすることをしぶる|248 
+be responsible for ...|…に対して責任がある|113 
+be said to Vb|Ｖだと言われている|123 
+be satisfied with ...|…に満足している|255 
+be senior to ...|…よりポストが上である|315 
+be sensitive to ...|…に敏感である|396 
+be short for ...|…の略である|226 
+be short of ...|…が不足している|126 
+be sick/tired of ...|…にうんざりしている|119 
+be slow to Vb|Ｖするのが遅い|260 
+be sold out|売り切れている|115 
+be something of a ...|ちょっとした…である|66 
+be sufficient to Vb|Ｖするに足る|264 
+be suited to ...|…に適している|50 
+be superior to ...|…より優れている|397 
+be supposed to Vb|Ｖすることになっている|90|91 
+be sure of ...|…を確信している|351 
+be sure to Vb|必ずＶする|265 
+be suspicious of ...|…を疑っている|34 
+be thought to Vb|Ｖだと考えられている|225 
+be to Vb|Ｖすることになっている，Ｖしなければならない|277|308|309|310
+be true of ...|…に当てはまる|312 
+be true to ...|…に忠実である|181 
+be typical of ...|（ある特性が）…に典型的である|290 
+be unable to Vb|Ｖできない|183 
+be under an obligation to Vb|Ｖする義務がある|230 
+be unwilling to Vb|Ｖするのを嫌がる|276 
+be up to ...|…にゆだねられている|113 
+be weary of ...|…に嫌気がさしている|116 
+be willing to Vb|Ｖすることをいとわない|161 
+be worth Ving|Ｖする価値がある|360 
+be worthy of ...|…の価値がある|360 
+be/become accustomed to ...|…に慣れている/慣れる|140 
+be/get caught in ...|…に捕まっている/捕まる|233 
+be/get used to ...|…に慣れている/慣れる|140 
+Beats me.|さあね。　知らないよ。|413 
+because of ...|…が理由で|24 
+before long|間もなく，すぐに|127 
+begin to Vb|Ｖし始める|105 
+begin Ving|Ｖし始める|352 
+behave oneself|行儀良くする|277 
+believe in ...|…の正しさ［存在］を信じる|367 
+believe it or not|信じられないだろうけど|5 
+belong to ...|…に属している|240 
+between A and B|AとBの間に|201 
+between you and me|ここだけの話ですが|306 
+beyond belief|信じられない|368 
+blame A on B|AをBのせいだとする|388 
+blow up|爆発する|168 
+both A and B|AとBの両方|320|406 
+break down|故障する|343 
+break into ...|…に押し入る|64 
+break out|勃発する|399 
+break up|別れる|90 
+bring ... about|…を引き起こす|217 
+bring A home to B|AをBに理解［実感］させる|379 
+bring ... up|…を育てる|228 
+bump into ...|…にぶつかる|5 
+burst into tears/laughter|堰を切ったように泣く/笑う|331 
+burst out Ving|堰を切ったようにＶする|331 
+by a wide/narrow margin|大差/僅差で|181 
+by accident|偶然に|189 
+By all means.|是非どうぞ。　いいですとも。|327 
+by cash/check|現金で/小切手で|287 
+by chance|偶然に|70 
+by now|今頃はもうすでに|93|299 
+by oneself|一人で，自分だけで|61|164 
+by sea/air/land|海路/空路/陸路で|164 
+by the time ～|～するまでには|12 
+by the way|ところで|6 
+by train/bus/car, etc.|電車/バス/車，etc. で|415 
+call ... back|…に折り返し電話をかける|298 
+call ... off|…を中止する|24 
+call for ...|…を要求する|220|275 
+call it a day|（仕事などを）切り上げる|381 
+call on ... to Vb|…にＶするように求める|56 
+call the shots|指揮を執る|349 
+A called B|Bと呼ばれるA，Bという名前のA|393 
+Can I Vb?|Ｖしてもかまいませんか？|25 
+can tell (that) ～|～であることがわかる|189 
+can't bring oneself to Vb|Ｖする気になれない|26 
+can't help but Vb|どうしてもＶしてしまう，Ｖせざるを得ない|371 
+can't help Ving|どうしてもＶしてしまう，Ｖせざるを得ない|130 
+can't possibly Vb|どうしてもＶできない|132 
+can't Vb enough|いくらＶしても十分ではない|207 
+can't Vb too ...|いくら…にＶしてもし過ぎにはならない|268 
+can't Vb without Ving.|Ｖbする時はいつもＶする|362 
+can(not) afford to Vb|Ｖする余裕がない|192 
+care for ...|…の面倒を見る|162 
+carry ... out|…を実行する|53 
+carry on (with ...)|（…を）続ける|140 
+catch ... Ving|…がＶしているところを見つける|87 
+catch up with ...|…に追いつく|26 
+cease to Vb|Ｖするのをやめる|3 
+Certainly.|もちろん。　かしこまりました。|25|284 
+Chances are (that) ～.|おそらく～でしょう。|93 
+change trains|電車を乗り換える|245 
+charge A with B|AをBの罪で告訴する|318 
+clear one's throat|咳払いをする|330 
+cling to ...|…にしがみつく|290 
+coincide with ...|…と一致する|99 
+come across ...|…に偶然出くわす|257 
+come apart|ばらばらになる|168 
+come by ...|…を手に入れる|117 
+come close/near to Ving|もう少しでＶしそうになる|165 
+come into being/existence|生まれる|215 
+come off|（ボタンなどが）取れる|4 
+come to light|明らかになる|383 
+come to terms with ...|…と折り合いがつく|9 
+come to Vb|Ｖするようになる|405 
+come to/reach a conclusion|結論に達する|217 
+come true|実現する|160 
+come up with ...|…を考え出す|139 
+compare A to B|AをBにたとえる|319 
+compared with/to ...|…と比較すると|174 
+compel ... to Vb|…にＶすることを強いる|131 
+compensate for ...|…を埋め合わせる|404 
+concentrate on ...|…に集中する|286 
+confine A to B|AをB（だけ）に限定する|110 
+confuse A with B|AをBと混同する|351 
+consent to ...|…を承諾する|418 
+considering ...|…を考慮すると|177 
+consist of ...|…から成る|221 
+contend with ...|…と闘う|307 
+continue to Vb|Ｖし続ける|189 
+contrary to ...|…に反して|172 
+conventional wisdom|一般的な考え方|345 
+convince ... to Vb|…を説得してＶさせる|52 
+cope with ...|…にうまく対処する|57 
+correspond to ...|…に相当する|221 
+count on ...|…を当てにする|113 
+cry out|叫ぶ|165 
+cure A of B|AのBを治す|34 
+cut down (on) ...|…を切り詰める|128 
+date back to ...|…にさかのぼる|342 
+day after day|毎日|102 
+day in, day out|来る日も来る日も|119 
+day off|休みの日|61 
+deal with ...|…に対処［対応］する|124 
+decide to Vb|Ｖすることに決める|208 
+decline to Vb|Ｖすることを断る|373 
+define A as B|AをBと定義する|234 
+deny Ving|Ｖしていない［Ｖしなかった］と主張する|131 
+depend on ...|…に依存する|214 
+deprive A of B|AからBを奪う|382 
+derive A from B|BからAを引き出す|68 
+describe A as B|AをBだと述べる|205 
+devote A to B|AをBに向ける［捧げる］|191 
+differ/vary from ... to ...|…によって異なる|253 
+discriminate against ...|…を差別する|353 
+distinguish A from B|AをBと区別する|337 
+distract A from B|AをBからそらす|167 
+do ... a favor|…にその頼み事を叶える|285 
+do ... harm/good/damage|…に害/利益/損害をもたらす|323 
+do away with ...|…を廃止［廃絶］する|305 
+do badly/well|うまくいかない/うまくいく|17 
+do nothing but Vb|Ｖすることだけしかしない|366 
+do the dishes/flowers, etc.|皿を洗う/花をアレンジする, etc.|359 
+do without ...|…なしで済ます|261 
+Do you have the time?|今，何時ですか？|299 
+Do you mind if ～ ?|～してもかまいませんか？|330 
+Don't mention it.|どういたしまして。|338 
+Don't worry.|心配しないで。|140 
+donate A to B|AをBに寄付［寄贈］する|208 
+dose off|うとうとと眠りに落ちる|107 
+dozens of ...|数十の…|144 
+drag on|ずるずると長引く|385 
+draw ... up|…を作成する|15 
+drive ... crazy|…の頭をおかしくさせる|49 
+drop by (...)|（…に）立ち寄る|299 
+due to ...|…が原因［理由］で|20 
+dwell on ...|…についてじっくり考える［話す，書く］|398 
+earn a/one's living|生活費を稼ぐ|6 
+eat between meals|間食をする|128 
+either A or B|AかBのどちらか一方|189|261 
+enable ... to Vb|…がＶするのを可能にする|51 
+encourage ... to Vb|…にＶするように励ます|55 
+end up Ving|最終的にＶすることになる|395 
+endow A with B|AにBを授ける|325 
+enjoy oneself|楽しく時を過ごす|8 
+enough to Vb|Vするのに十分|111 
+entitle A to B|AにBの資格［権利］を与える|19 
+even if ～|たとえ～だとしても|62|264 
+even though ～|～だけれども|276 
+every other day|一日おきに|58 
+every time ～|～する時はいつでも|248 
+exclude A from B|AをBから除外する|312 
+extract A from B|AをBから引き抜く［抽出する］|358 
+face up to ...|…をしっかりと受け止めて対処する|339 
+fail to Vb|Ｖしない，Ｖできない|363 
+fall asleep|眠る|250 
+fall in love with ...|…に恋をする|368 
+fall off (...)|（…から）落ちる|67 
+far from ...|…どころか，決して…ではなく|187 
+feel free to Vb|気軽にＶする|374 
+feel like Ving|Ｖしたい気分である|174 
+feel pity for ...|…に哀れみ［同情］を感じる|237 
+figure ... out|…がわかる|200 
+fill ... in|…に必要事項を記入する|224 
+find fault with ...|…のあら探しをする|366 
+find it ... to Vb|Ｖすることが…だとわかる［思う］|385 
+find out that ～|～だとわかる［知る］|70 
+for a change|いつもと違って|135 
+for a while|しばらくの間|180 
+for ages|長い間|10 
+for all ...|…にもかかわらず|255 
+for fear that ～|～ということを恐れて|306 
+for free|無料で|37 
+for instance|例えば|391 
+for nothing|無料で|112 
+for one thing|一つには|255 
+for that matter|さらに言えば|247 
+for the first time in ...|…ぶりに|13 
+for the most part|大部分は|203 
+for the past/last ...|過去…の間|179 
+for the sake of ...|…のために|218 
+for the time being|当面の間|261 
+～ , for ….|～である。というのは…だからだ。|84 
+force ... to Vb|…に強制的にＶさせる|355|377 
+forget to Vb|Ｖし忘れる|93 
+forget Ving|Ｖしたことを忘れる|134 
+free of ...|…がなく|54 
+from ... on|…からずっと|269 
+from A to B|AからBまで|125 
+from a distance|離れた場所から|175 
+from all sides|あらゆる方面から|151 
+from time to time|時々|375 
+... from now|今から…後に|202 
+furnish A with B|AにBを備え付ける|58 
+generally speaking|一般的に言うと|36 
+get ... done|…をやり終える|289|408 
+get ... to Vb|…にＶさせる|52|65 
+get ... Vp.p.|…がＶされるようにする|65 
+get along with ...|…とうまくやっていく|117 
+get back|元の場所へ戻る|166 
+get home|帰宅する|250 
+get into ...|…の中に入る|163 
+get lost|道に迷う|268 
+get off (...)|（…から）降りる|14 
+get on (...)|（…に）乗り込む|245 
+get on ...'s nerves|…の神経にふれる|49 
+get out of ...|…の外に出る|373 
+get over ...|…を乗り越える|332 
+get rid of ...|…を取り除く|77 
+get there/here|そこに/ここに着く|115|415 
+get to sleep|眠る|256 
+get to Vb|Ｖするようになる|405 
+give ... a ride|…を車に乗せる|288 
+give ... off|…を発する|387 
+give ... up|…をやめる［断念する］|127 
+give birth to ...|…を生む|36 
+give in (to ...)|（…に）屈する|98 
+give rise to ...|…生む|308 
+go Vb|Ｖしに行く|286 
+go bankrupt|倒産する|27 
+go by|過ぎ去る|159 
+go for a swim/drive, etc.|泳ぎ/ドライブ，etc.に行く|24 
+go mad [crazy]|頭がおかしくなる|331 
+go on a trip (to ...)|旅行（で…）に行く|204 
+go out|外出する|61|372 
+go over ...|…を調べる|94 
+go Ving|Ｖしに行く|103 
+go well with ...|（色・雰囲気などが）…に合う|25 
+go without (...)|（…）なしに済ます|183 
+go wrong|うまく行かない|271 
+go/be on strike|ストに入る/入っている|251 
+grab ... by the 体の部分|…の＜体の部分＞をつかむ|249 
+graduate from ...|…を卒業する|243 
+grasp ... by the 体の部分|…の＜体の部分＞をつかむ|62 
+grow up|大人になる|380 
+Guess what!|あのね。　実はね。|3 
+had better not Vb|Ｖしない方が良い|260 
+half a ...|…の半分|45 
+hand ... down|…を受け渡す［伝える］|125 
+hand ... in|…を提出する|94 
+hang out|しょっちゅう訪れる|159 
+happen to ...|…に起こる|166 
+happen to Vb|たまたまＶする|319 
+Hardly had S Vp.p. when <S> <V>.|SがVするや否や<S>が<V>する。|372 
+hardly/scarcely any ...|ほとんど…がない|358 
+hardly/scarcely ever ...|めったに…しない|359 
+... has it that ～|…によれば～ということである。|345 
+have ... in common|…を共通してもっている|387 
+have nothing to do with ...|…と何ら関係がない|314 
+have ... Vb|…にＶしてもらう|60 
+have ... Vp.p.|…がＶされるようにしてもらう|63|81 
+have a dream/nightmare|夢/悪夢を見る|146 
+have a good time|楽しい時を過ごす|395 
+have a hard time Ving|Ｖするのに苦労する|161 
+have an effect on ...|…に影響を及ぼす|262 
+have an eye for ...|…を見る目がある|360 
+have been to ...|…へ行った［来た］ことがある|8 
+have been Vp.p.|Ｖされたばかりだ［Ｖされたことがある］|89 
+have difficulty Ving|Ｖするのに苦労する|228 
+have faith in ...|…を信頼［信用］している|310 
+have got ...|…を持っている|237 
+have got to Vb|Ｖしなければならない|261|300 
+have it (from ...) that ～|（…から）～だと聞いている|344 
+have no choice but to Vb|Ｖする以外に選択肢がない|62 
+have no idea ～|～が全くわからない|202 
+have to Vb|Ｖしなければならない|23|316 
+have trouble Ving|Ｖするのに苦労する|227 
+have yet to Vb|まだこれからＶせねばならない|42 
+head for ...|…に向かう|164 
+hear from ...|…から便り［連絡］をもらう|6 
+help (to) Vb|Ｖするのを助ける|143 
+help ... (to) Vb|…がＶするのを助ける|57 
+help A with B|AのBを助ける|329 
+Here is/are ...|ここに…がある。　これは…です。|156 
+Here ... comes. / Here comes ...|（ほら）…が来た。|10 
+hesitate to Vb|Ｖすることをためらう|248 
+hit on ...|…を（急に）思いつく|148 
+hold ... back|…を押しとどめる|377 
+hold ... in contempt|…を軽蔑する|66 
+hold ... in high esteem|…をとても尊敬する|371 
+hold A responsible (for B)|（Bに対して）Aに責任を取らせる|306 
+hold a grudge (against ...)|（…に対して）恨み［憎しみ］を抱く|123 
+hold on|そのままで待つ|288 
+A hours/days after B|BのA時間/日後に|86 
+A hours/days before B|BのA時間/日前に|85 
+hope for ...|…を願う|19 
+How ... (S V) !|なんて…なんだろう。|37|183 
+How A of B.!|BはなんてAなんだろう。|279 
+How about ...?|…についてはどうですか？|75 
+How come ～ ?|どうして～なのですか？|413 
+How do you like ...?|…は気に入っていますか？|118 
+how to Vb|Ｖする方法|269 
+hundreds of ...|数百の…|399 
+hurry up|急ぐ|33 
+I beg your pardon?|もう一度言っていただけますか？|381 
+I bet/I'll bet ～ .|きっと［絶対に］～だよ。|301 
+I can see no reason why ～ .|何故～なのか私にはわからない。|251 
+I could use ...|…がとても欲しい。|46 
+I couldn't agree more.|全く同感です。|295 
+I couldn't care less.|そんなことはどうでもいい。|296 
+I guess ～ .|たぶん～だと思う。|132 
+I hear (that) ～.|～だと聞いています。|88 
+I suppose ～ .|たぶん～だと思う。|301 
+I tell you, ～ .|いいか，～なんだからな。|310 
+I understand ～ .|～だと聞いています。|228 
+I wonder ～ .|～かなぁ。|279 
+I wonder if you could Vb.|Ｖしていただけるでしょうか。|329 
+I would be grateful if you would/could Vb.|Ｖしていただけるとありがたいのですが。|328 
+I would say ～ .|～だと思います。|295 
+I'll be there.|そちらに行きます。|45 
+I'm afraid ～.|残念ながら～です。|42 
+I'm sorry to Vb|Ｖしてすみません。|45|110 
+I'm sure (that) ～ .|～を確信している。|405 
+I've been told that ～ .|～だと聞いています。|232 
+if anything|むしろ，どちらか言うと|176 
+If I were you, I would Vb|私（があなたの立場）ならＶしますが。|314 
+if it hadn't been for ...|仮に…が（い）なかったとしたら|317 
+if it weren't for ...|仮に…が（い）ないとすれば|315 
+if necessary|もし必要なら|394 
+if possible|もし可能なら|394 
+if ... is to Vb|…がＶするためには|65 
+if ... should Vb|仮に…がＶするとしたら|271 
+if ... were to Vb|仮に…がＶするとしたら|320 
+A if not B|BではないにせよAで|346 
+impose A on B|AをBに課す|158 
+in (the) light of ...|…から見て|50 
+in ... direction|…の方角［方向］に|105 
+in ... respect|…な点［面］において|397 
+in ...'s case|…の場合は|363 
+in ...'s presence|…のいる所［前］で|111 
+in a hurry|急いで|233 
+in a row|連続で|246 
+in a sense|ある意味で|303 
+in a while|しばらくしたら|356 
+in a word|手短に言えば，要するに|214 
+in addition to ...|…に付け加えて|141 
+in advance|前もって|270 
+in case ～|～した場合には|267 
+in charge (of ...)|（…の）担当［管理］をして|349 
+in chorus|声を揃えて|41 
+in conclusion|締めくくりとして，最後に|35 
+in/by contrast|対照的に|384 
+in detail|詳細に|346 
+in exchange for ...|…と交換に|138 
+in fact|実際には（むしろ）|407 
+in force|大挙して|373 
+in front of ...|…の前に|144|165 
+in general|一般的に|278 
+in one gulp|一飲みに|30 
+in one's teens/twenties, etc.|１０代/２０代，etc.で|294|411 
+in one's youth|若い頃|350 
+in order|秩序だった，正常に作動した|152 
+in order to Vb|Ｖするために|57|347 
+in other words|言い換えると|274 
+in part|部分的に|83 
+in particular|特に|28 
+in person|本人自ら|21 
+in proportion to ...|…に比例して|345 
+... in question|問題［話題］となっている…|110 
+in school|在学中に|244 
+in search of ...|…を捜して|109 
+in short|要するに|230 
+in spite of ...|…にもかかわらず|335 
+in spite of oneself|思わず|165 
+in terms of ...|…という観点では|397 
+in that ～|～という点において|262 
+in the beginning|初めのうちは|98 
+in the corner|角に|184|327 
+in the end|最終的には|98 
+in the event of ...|…の場合には|265 
+in the face of ...|…にもかかわらず|96 
+in the future|将来において|237 
+in the long [short] run|長い目で［短期的に］見れば|197 
+in the middle of ...|…の真っ最中で|286 
+in the past|過去に|396 
+in the way (of ...)|（…の）邪魔になって|33 
+in those days|当時は|80 
+in time (to Vb)|（Ｖするのに）間に合って|316 
+in turn|順番に|14|157 
+in vain|無駄に|53 
+in Ving|Ｖしている時に|311 
+in which case|その場合は|242 
+inform A of B|AにBを知らせる|407 
+insist on ...|…するように強く求める|138 
+instead of ...|…の代わりに|28|139 
+intend ... to Vb|…がＶするよう意図する|99 
+introduce A to B|AをBに紹介する|405 
+intrude on ...|…を侵害する|247 
+invest (A) in B|（Aを）Bに投資する|336 
+is/am/are being ...|今だけ（一時的・意図的に）…している|242 
+A is to B what X is to Y.|AとBの関係はXとYの関係と同じだ。|382 
+... is because ～ .|…は～だからである。|203 
+... is to blame (for ～).|…は（～に対して）責任［罪］がある。|201 
+... is Ving when S V.|…がＶしているとＳがＶする。|72 
+It appears that ～ .|～のようである。|383 
+It can't be helped.|それは仕方のないことだ。|297 
+It doesn't matter 間接疑問文.|～はどうでもよいことだ。|277 
+It goes without saying that ～ .|～は言うまでもないことだ。|389 
+It has been ... since ～ .|～して以来…が経過している。|333 
+It is ... (that) ～ .|～なのは…である。|300 
+It is 形容詞 for ... to Vb|…がＶするのは＜形容詞＞だ。|337 
+It is 形容詞 of ... to Vb.|Ｖするとは…は＜形容詞＞だ。|338 
+It is high time ～ .|もういい加減に～すべき時である。|335 
+It is one thing to V1 and another to V2.|Ｖ1することとＶ2することとは別である。|379 
+It is said that ～ .|～だと言われている。|342 
+It is time (that) ～ .|もう～すべき時である。|334 
+It is true (that) ～ , but …|確かに～ではあるが，しかし…。|130 
+It is worthwhile Ving.|Ｖするのは価値のあることだ。|340 
+It is no use Ving.|Ｖしても無駄である。|339 
+It isn't until/till ... that ～ .|…になってやっと～する。|350 
+It looks as if ～ .|～のようである。|355 
+It looks like ～ .|～のようである。|289 
+It may be that ～ .|～なのかもしれない。|402 
+It seems ... that ～ .|～なのは…であるようだ。|154 
+It seems as if ～ .|～のようである。|354 
+It seems that ～ .|～のようである。|305 
+It sounds as if ～.|～のようである。　～のように聞こえる。|61 
+It takes (A) B to Vb.|Ｖすることは（Aに）Bを必要とさせる。|110|415 
+It takes A for B to Vb.|BがＶすることはAを必要とさせる。|332 
+It was ... before ～ .|～するまでには…がかかった。|332 
+It was the least I could do.|たいしたことはしていません。|338 
+It will be ... before ～ .|～するまでには…がかかる（だろう）。|333 
+It's a matter of ...|それは…の問題だ。|40 
+It's a shame/pity (that) ～ .|～なのは残念だ。|272 
+It's A（分） to B（時間）.|現在の時刻はB時A分前だ。|299 
+judging from/by ...|…から判断すると|176 
+just around the corner|間近に迫った|185 
+(just) in case|万一の場合に備えて|268 
+just/only/simply because ～|単に～だという理由で|357 
+keep away from ...|…に近づかない|310 
+keep in touch with ...|…と交流を保つ|112 
+keep one's fingers crossed|幸運を祈る|44 
+keep up with ...|…に遅れずついていく|114 
+keep Ving|Ｖし続ける|186|309 
+keep/bear ... in mind|…を心に留めておく|380 
+kind of ...|種類［たぐい］の…|225 
+know better than to Vb|Ｖするほど愚かではない|351 
+
+lay ... off|…を（一時）解雇する|321 
+learn ... by heart|…を暗記する|35 
+learn to Vb|Ｖできるようになる|335 
+leave ... alone|…をそっとしておく|286 
+leave ... behind|…を置き去りにする|164 
+leave A to B|AをBにゆだねる|260 
+leave a lot/nothing to be desired|かなり不満が残る/全く不満が残らない|118 
+less than ...|…未満|20, 419 
+let A know B|AにBを知らせる|23 
+let ... Vb|…にVさせてやる|61 
+let alone ...|…は言うに及ばず|192 
+let go (of ...)|（…から）手を離す|290 
+Let me Vb.|今Ｖします。　Ｖさせてください。|21 
+Let's see.|えーっと。　確か…。|327 
+lie down|（休む・寝るために）横になる|250 
+lie in ...|…にある|295 
+...'s line is busy now.|…は今電話で話し中です。|298 
+little by little|少しずつ|116 
+live to be ... (years old)|…歳まで生きる|108 
+load A with B|AにBを載せる［積む］|169 
+long ago|ずっと昔に|305 
+long to Vb|Ｖしたいと切望する|37 
+look ... in the eye|…の目を見つめる|263 
+look ... over|…にざっと目を通す|198 
+look ... up|…を調べる［見つけ出す］|38 
+look ... way(s)|…の方向を見る|249 
+look after ...|…の面倒を見る|102 
+look back (on ...)|（＜過去の出来事＞を）振り返る|159 
+look for ...|…を探す|257 
+look forward to ...|…を楽しみにして待つ|237 
+look into ...|…を調べる|147 
+look like ...|…のような表情をしている，…に似ている|8|238 
+look on A as B|AをBと見なす|80 
+Look out!|気をつけろ！|165 
+look to A for B|AにBを当てにする［頼る］|260 
+lose one's temper|かっとなる|326 
+lose weight|体重を減らす|128 
+lots of ...|たくさんの…|1 
+love to Vb|Ｖするのが大好きだ|206 
+loved one|愛する家族（の一人）|182 
+major in ...|…を専攻する|74 
+make (both) ends meet|家計の帳尻を合わせる|385 
+make ... out|…を判読する［理解する］|121|291 
+make ... up|（話を）でっちあげる，（ある割合を）占める|383|416 
+make a blunder|へまをする|167 
+make a promise|約束をする|282 
+make a speech|スピーチをする|232 
+make an effort (to Vb)|（Ｖする）努力をする|189 
+make believe (that) ～|～のふりをする|59 
+make do with ...|…で間に合わせる|261 
+make for ...|…に向かって進む|289 
+make fun of ...|…を笑いものにする|229 
+make it|目的地に到達する，目的を達する|316 
+make one's debut|デビューする|411 
+make one's way|進む|186 
+make oneself heard|自分の声を相手に伝える|285 
+make oneself understood|自分の意志を相手に伝える|47 
+make progress|進歩する|179 
+make sense|意味をなす|329 
+make sure (that) ～|必ず～となるようにする|392 
+make the best of ...|…を前向きに捉える|339 
+make up for ...|…の埋め合わせをする|45 
+make up one's mind (to Vb)|（Ｖする）決心をする|260 
+make use of ...|…を使う|314 
+Make yourself at home.|遠慮せずにくつろいでください。|48 
+manage to Vb|何とかＶする|96 
+many more ...|ずっと多くの…|65 
+master of ceremonies|司会（進行役）|226 
+may well Vb|おそらくＶだろう|5 
+May/Can I speak to ...?|（電話で）…さんをお願いしたいのですが？|298 
+mean to Vb|Ｖするつもりである|254 
+might as well Vb|Vした方がいいかもしれない|8 
+might have Vp.p.|Ｖしたかもしれない|166 
+millions of ...|数百万の…|219 
+Mind your own business.|余計なお世話だ。|314 
+mistake A for B|AをBと間違える。|30 
+more ～ than ... can Vb|…がＶできないほど多くの～|272 
+more or less|大なり小なり|217 
+more than one ...|複数の…|371 
+much/still less ...|…はなおさらである|410 
+need to Vb|Ｖする必要がある|65 
+need Ving|Ｖする必要がある|136 
+needless to say|言うまでもなく|84 
+neither A nor B|AでもBでもない|356 
+Neither 助動詞 ...|…もまたそうでない。|362 
+Never mind.|気にするなよ。|297 
+next to ...|…の隣に|112|327 
+no doubt|疑いなく|244 
+No kidding!|冗談でしょう。　まさか。|294 
+no less than ...|…も|122 
+no longer|もはや…ない|402 
+not make much difference|たいした違いはない|261 
+no matter ～|～に関係なく|279|329 
+no more than ...|…しか|415 
+no more A than B|Bと同様Aでない|411 
+No sooner had S Vp.p. than <S> <V>.|SがVするや否や<S>は<V>する。|373 
+No way!|絶対にダメだ。|381 
+No wonder (that) ～ .|～には何の驚きもない。|343 
+none of ...|…のどれもない|89 
+none of ... 's business|…の知ったことではない。|296 
+none the 比較級 (for ...)|（…だからといって）それだけ～とはならない|407 
+not ... any longer|もはや…ない|127 
+not ... at all|全く…ない|47 
+not A but B|AではなくB|36 
+not ... by any means|全く…ない|293 
+not ... in the least|少しも…ない|219 
+not ..., either.|～もまた…でない|225 
+not A or B|AでもBでもない|238 
+not always ...|いつでも…とは限らない|361 
+not bother to Vb|わざわざＶするという面倒なことはしない|315 
+not completely ...|完全に…というわけではない|255 
+not necessarily ...|必ずしも…ではない|357 
+not only A but (also) B|AだけでなくBもまた|205 
+not quite ...|完全に…というわけではない|384 
+not so much A as B|AというよりもむしろB|413 
+not to mention ...|…は言うまでもなく|121 
+not to say ...|…とは言わないまでも|322 
+not too ...|あまり…でない|135 
+A, not B|BではなくAで|230|365 
+notice ... Ving|…がＶしているのに気づく|170 
+notify A of B|AにBを告知［通知］する|296 
+now and then|時々|325 
+now that ～|今では～なので，～である今は|247 
+object to ...|…に反対の意思を表す|133 
+... of today|今日の…|278 
+... of one's own|～自身の…|259 
+of + 抽象名詞|…である，…のある|125 
+on ～ terms with ...|…とは～な間柄で|51 
+on account of ...|…が理由［原因］で|354 
+on and off|断続的に|11 
+on board|搭乗して|168 
+on campus|キャンパスで|195 
+on duty|勤務中で|391 
+on earth|いったい|10 
+on fire|火事になって|33 
+on foot|徒歩で|164 
+on impulse|衝動的に|55 
+on purpose|故意に|358 
+on sale|販売中で|55 
+on second thought(s)|考え直して|287 
+on the (tele)phone|電話で|285 
+on the ... side|少し…気味で|176 
+on the condition that ～|～という条件で|54 
+on the contrary|その正反対で|310 
+on the grounds that ～|～という理由で|216 
+on the increase|増加中で|187 
+on the one hand|一方で|26 
+on the other hand|他方で|26 
+on the way|途中で|268 
+on the whole|全体的に|283 
+on time|時間通りに|115 
+... on which to Vb|その上にＶする（ための）…|104 
+on/in behalf of ...|…を代表して|232 
+once and for all|これを最後に|334 
+once in a while|時折|195 
+once upon a time|昔々|369 
+one ... , the other|（２つのうちの）一方，（残りの）片方|337 
+one ... after another|…が次から次へと|146 
+one of ...|…の一つ|367 
+one of these days|近いうちに|5 
+only to Vb|ただＶしただけだ|109 
+order ... to Vb|…にＶするように命じる|198 
+... or so|…かそこら|302 
+... or something|…か何か|304 
+other than ...|…以外に|337 
+ought not to Vb|Ｖすべきではない|320 
+ought to Vb|Ｖすべきである|322 
+out loud|声に出して|352 
+out of ...|（原因・理由） から|39 
+out of order|故障して|301 
+out of place|その場にふさわしくない|184 
+out of sight|見えなくなって|309 
+out of the question|問題外で|303 
+owe A to B|AをBのおかげだと思う|207 
+owing to ...|…が理由［原因］で|344 
+pass A on (B)|Aを（Bに）受け渡す|238 
+pass a sentence on ...|…に判決を言い渡す|378 
+pass away|亡くなる|111 
+pass for/as ...|…として通用する|294 
+pass out|気絶する|180 
+pay (A) for B|Bに対して（Aを）支払う|230 
+pay ... back|…を返済する|126 
+pay attention to ...|…に注意を払う|184 
+pay heed to ...|…に注意を払う|16 
+permit ... to Vb|…がＶするのを許可する|61 
+persist in ...|あくまでも…を続ける|263 
+persuade ... into Ving|…にＶするように説得する|292 
+persuade ... to Vb|…にＶするように説得する|53 
+pick ... up|…を車に乗せる|144 
+place emphasis on ...|…を強調する|56 
+plan to Vb|Ｖすることを計画する|24 
+play a role/part in ...|…において役割を果たす|71 
+plenty of ...|たくさんの…|177 
+point ... out|…を指摘する|136 
+praise A for B|Bが理由でAを褒める|77 
+prefer A to B|BよりAを好む|276 
+present A with B|AにBを授与［贈呈］する|207 
+presume A (to be) B|AがBであろうと考える［推定する］|390 
+pretend to Vb|Ｖであるふりをする|290 
+prevail over ...|…に勝る|363 
+prevent A from B|AがBするのを防ぐ|33 
+prior to ...|…以前に|398 
+prohibit ... from Ving|…がＶするの禁止する|391 
+propose a toast to ...|…への乾杯の音頭をとる|173 
+provide A with B|AにBを与える|32 
+provide for ...|…を養う|227 
+provided/providing (that) ～|～という条件で|182 
+prove A (to be) B|AがBであることを証明する|390 
+punch/strike, etc. ... in the face|…の顔を殴る|315 
+put ... forward|…を提案する|251 
+put ... into practice|…を実行に移す|379 
+put ... off|…を延期する|381 
+put ... out|…を消す|33 
+put ... together|…を組み立てる|269 
+put an end to ...|…を終わらせる|320 
+put up with ...|…に耐える|127 
+quite a few ...|かなりの数の…|38 
+rarely/seldom, if ever, V|たとえするにせよめったにＶしない|359 
+rather than ...|…ではなく|35 
+reach for ...|…を取ろうと手を伸ばす|258 
+read ... out|…を音読する|173 
+Really?|本当に？|11 
+reconcile A with B|AをBと調和［一致］させる|311 
+refer to A as B|AをBと呼ぶ|175 
+refrain from ...|…を差し控える|354 
+refuse to Vb|Ｖすることを拒否する|414 
+regard A as B|AをBと見なす|376 
+regardless of ...|…に関係なく|92 
+regret having Vp.p.|Ｖしたことを後悔する|244 
+regret to Vb|Ｖしなければならないのが残念だ|376 
+rely on ...|…に頼る|322 
+remember to Vb|Ｖすることを覚えている|94 
+remember Ving|Ｖしたことを覚えている|133 
+remind A of B|AにBを思い出させる|159 
+remind ... to Vb|…にＶすることを思い出させる|267 
+replace A with B|AをBと交換する|301 
+require ... to Vb|…にＶすることを要求する|228 
+resolve to Vb|Ｖすると固く決心する|98 
+resort to ...|…に頼る［訴える］|347 
+respond to ...|…に応答［反応］する|139 
+restore A to B|AをBに戻す|302 
+result from ...|…の結果として生じる|212 
+result in ...|結果として…になる|157 
+return a verdict of guilty/not guilty|有罪/無罪の判決を下す|172 
+right away|ただちに|13 
+right now|ちょうど今|394 
+rise/jump to one's feet|ぱっと立ち上がる|241 
+rob A of B|AからBを強奪する|79 
+run away|逃げ去る|70 
+run into ...|…に出くわす|195 
+run out (of ...)|（…が）切れる［尽きる］|135 
+run ... over|（車などが）…をひく|165 
+... runs in ～'s family.|…は～の家族に代々伝わっている。|108 
+say hello (to ...)|（…に）挨拶をする|299 
+say to oneself|心の中でつぶやく|8 
+scores of ...|多数の…|321 
+scratch one's head|（当惑して）頭をかく|376 
+search A for B|Bを見つけ出そうとA（場所など）を捜す|59 
+second to none|何［誰］にも引けを取らない|204 
+see (to it) that ～|確実に～となるようにする|226 
+see if ～|～かどうか確かめる|198 
+see A as B|AをBと見なす|84 
+see ... off|…を見送る|309 
+seek to Vb|Ｖしようと努める［試みる］|231 
+seem to have Vp.p.|Ｖしたようだ|124 
+seem to Vb|Ｖのようだ|329 
+set ... free|…を解放［釈放］する|292 
+set ... up|…を設立する|147 
+set about Ving|Ｖすることを始める|333 
+set in|（悪天候などが）始まる|60 
+set off|（旅行などに）出発する|109 
+settle out of court|示談で解決する|196 
+shake hands with ...|…と握手をする|14 
+Shall I Vb?|Ｖしましょうか？|298 
+share A with B|AをBと共有する|359 
+should S Vb|仮にSがＶすれば|374 
+show off|誇示する，見せびらかす|206 
+show signs of ...|…の兆候［気配］がある|411 
+simply/merely because ～|単に～だからという理由で|276 
+slap/pat/tap ... on the 体の部分|…の＜体の部分＞を叩く|170|258 
+slow down|速度を落とす|114 
+sneak in/out|こっそり入る/出る|170 
+so ... (that) ～|～するほどとても…|13|134 
+So ... 代動詞.|そう言われれば確かにそうですね。|295 
+so that ～|～する目的で|269 
+so to speak|言わば|349 
+So 助動詞 …|…もまたそうである。|371 
+so long as ～|～である限り|277 
+some ～ , others …|～するものもあれば，…するものもいる。|273 
+sooner or later|遅かれ早かれ|140 
+sort of ...|種類［たぐい］の…|82 
+speaking/talking of ...|…と言えば|232 
+spend A on B|AをBに費やす|203 
+spend ... Ving|…をＶすることに費やす|162 
+stand by ...|…を支援する|174 
+stand for ...|（頭文字などが）…を表す|234 
+stand out|目立つ|350 
+stare at ...|…をじっと見つめる|254 
+start to Vb|Ｖし始める|249 
+starting ...|（日付）から|18 
+stop ... from Ving|…がＶするのを阻止する|49 
+stop to Vb|Ｖするために立ち止まる|105 
+stop Ving|Ｖするのをやめる|186 
+strike A as B|AにBという印象を与える|303 
+strive to Vb|Ｖしようと懸命に努力する|401 
+such ... (that) ～|～するほどとても…|132|395 
+such as ...|…のような|37|345 
+suffer from ...|…で苦しむ|267 
+～ sum(s) of ...|…な金額の|203 
+Sure.|いいですよ。　もちろんです。|113 
+switch ... on|…のスイッチを入れる|372 
+take (one's) revenge on ...|…に仕返しをする|407 
+take ... apart|…を分解する［ばらばらにする］|269 
+take A as B|AをBだと取る［解釈する］|39 
+take ... for granted|…を当然のことと思う|341 
+take ... in|…をだます|291 
+take ... into account|…を考慮に入れる|378 
+take ... off|…を脱ぐ|163 
+take ... up|…を始める|128 
+take ... with 人|…を持って行く|268 
+take ...'s place|…の代わりをする|270 
+Take a seat.|お座りください。|48 
+take advantage of ...|…を利用する|133 
+take after ...|…に似ている|279 
+take care of ...|…の世話をする|113 
+take off|離陸する|393 
+take one's time|自分のペースでゆっくり行う|45 
+take over (...)|（…を）引き継ぐ|296 
+take (great) pains to Vb|一生懸命にＶする|106 
+take part in ...|…に参加する|65 
+take place|行われる，起こる|226 
+take pride in ...|…を自慢に思う|197 
+take responsibility for ...|…の責任を取る|271 
+take the trouble to Vb|苦労を惜しまずＶする|340 
+talk A into B|AにBするよう説得する|22 
+talk A out of B|AにBしないよう説得する|161 
+tell A from B|AをBと区別する|335 
+tell ... to Vb|…にＶするように言う|249 
+tend to Vb|Ｖする傾向がある|150 
+thank A for B|AにBを感謝する|48 
+thanks to ...|…のおかげで|96 
+That depends.|それは場合による。|285 
+that is|つまり|212 
+that is to say|つまり|382 
+that of ...|…のそれ|150 
+That's correct.|その通り。|293 
+That's too bad.|それはまずい［残念］ですね。|11 
+the day before yesterday|一昨日|257 
+The fact is that ～ .|実は～なのです。|195 
+the instant (that) ～|～した瞬間に|249 
+the last (...) to Vb.|決してＶしない（…）|310 
+The last thing ... want to do is (to) Vb.|…が最もしたくないことはＶすることだ。|364 
+the moment (that) ～|～した瞬間に|250 
+the night before ...|…の前の夜に|256 
+the number of ...|…の数|187 
+the other day|先日||13 
+the others|残りの全て||26 
+the poor/rich/sick, etc.|貧しい/金持ちの/病気の，etc.人達|162|353 
+The reason (why) ～ is because ….|～である理由は…だからである。|252 
+the rest (of ...)|（の…）残り全て|162 
+the same A as B|Bと同じA|150 
+The thing is, ～ .|実は～なのです。|103 
+The trouble is that ～ .|困ったことに～である。|194 
+the week before last|先々週|6 
+the + 川の名前|…川|403 
+the + 国名形容詞|…の国民|80|205 
+the 比較級 of the two|２つ［２人］のうちより…な方|405 
+The 比較級, the 比較級|…すればするほどより～|210 
+There is no hurry.|急ぐことはありません。|45 
+There is no use Ving.|Ｖしても仕方がない。|339 
+There is no Ving.|Ｖすることはできない。|368 
+There is still a long way to go before ～ .|～するのはまだずっと先のことである。|149 
+There ... go(es) again.|また…のいつものが始まったよ。|206 
+There V S.|SはVする。|244 
+these days|近頃では|267 
+think ... over|…をじっくり考える|23 
+think nothing of ...|…を全く気にしない|347 
+think of A as B|AをBと見なす|119 
+This is ...（電話）|（電話で） 私は…です。|298 
+This is the 序数 + 名詞 that ～ .|～するのはこれが…番［回］目の＜名詞＞だ。|246 
+This is where ～ .|ここは～する場所だ。|159 
+this time|今回は|126 
+This/That is how ～ .|このようにして～。|369 
+This/That is why ～ .|この理由で～。|230 
+threaten to Vb|Ｖするぞと脅す|292 
+to and from ...|…の行き帰りに|28 
+to be honest|正直［率直］に言うと|118 
+to begin with|まず始めに|343 
+to make matters worse|さらに悪いことには|79 
+to one's heart's content|心ゆくまで|348 
+to one's relief|ほっとしたことに|67 
+to put it bluntly/briefly, etc.|あからさまに/手短に，etc. 言うと|388 
+to say nothing of ...|…は言うまでもなく|120 
+to say the least|控えめに言っても|117 
+to some extent|ある程度|47 
+to tell (you) the truth|本当のことを言うと|119 
+to the north/south/east/west of ...|…の北/南/東/西の方角に|211 
+to death|死ぬほど， 死ぬまで|29|272 
+too ... to Vb|あまりに…でＶできない|113 
+translate A into B|AをBに翻訳する|361 
+treat A as B|AをBとして扱う|133 
+try ... on|…を試着する|25 
+try Ving|試しにＶする|135 
+turn ... down|…を断る|285 
+turn ... off|…を消す［止める］|265 
+turn ... on|…を点ける|372 
+turn around|反対方向に向きを変える|105 
+turn out ...|結局…となる|255 
+turn out to be ...|後で…だとわかる［判明する］|294 
+turn to A for B|AにBを頼る|248 
+turn up|現れる|62 
+type of ...|種類［タイプ］の…|307 
+under repair/construction|修理/建設中である|233 
+under/in ...circumstances|…の状況で|75 
+up to ...|…まで|54|179 
+urge ... to Vb|…にＶするよう強く勧める|380 
+used to Vb|かつてはＶだった|2 
+view A as B|AをBと見なす|231 
+vote for/against ...|…に賛成票/反対票を投じる|193 
+wait for ...|…を待つ|10 
+wait for ... to Vb|…がＶするのを待つ|166 
+wait one's turn|自分の順番を待つ|134 
+wake up|目ざめる|107 
+want ... to Vb|…にＶしてほしい|4|247 
+want ... Vp.p.|…がＶされるのを望む|247 
+watch out (for ...)|（…に）注意をする|249 
+way of Ving|Ｖの仕方|253 
+We/They/You all ...|私達/彼ら/あなた達は皆…|307 
+wear the pants|主導権を握る|349 
+what (little) ... S V|SがVする（少ないながら）全ての…|208 
+What do you say (to ...)?|（…は）どうですか？|318 
+What do you think of ...?|…をどう思いますか？|25 
+What has become of ...?|…はどうなりましたか？|6 
+What if ～ ?|～したらどうなるのですか？|268 
+What is S like?|…はどのような物［人］ですか？|202 
+What on earth ... ?|いったい何が…なのですか？|10 
+what A call B|AがBと呼ぶもの|206 
+what they/we call ...|いわゆる…|87 
+What was the outcome of ...?|…の結果はどうなりましたか？|52 
+what with A and B|AやらBやらで|93 
+What's keeping you?|どうして遅れているんだい？|115 
+what's more|その上さらに|118 
+What's the matter?|どこがおかしいのですか？|356 
+What's wrong (with ...) ?|（…は）どこがおかしいのですか？|200 
+What about ...?|…についてはどうですか？|75 
+when it comes to ...|…という話になると|130 
+when Ving|Ｖする時には|224 
+whether ～ or …|～であれ…であれ（いずれにせよ）|277|278 
+whether or not ～|～か否か|94 
+while Ving|Ｖしている間に|134 
+Who's calling, please?|（電話で） どちらさまでしょうか？|298 
+Why don't we Vb?|Ｖしようじゃないか。|280 
+Why don't you Vb?|Ｖしてはいかが？|135 
+Why is it that ～ ?|～なのはいったい何故ですか？|352 
+Why not Vb?|Ｖするというのはどうですか？|299 
+Why not?|（提案に同意して） いいですよ。|299 
+... will do.|…でよい［ＯＫだ］。|21 
+... will make a ～|…は～になる（素質・素養がある）|282 
+wipe ... off|…をふき［拭い］取る|102 
+wish to Vb|Ｖしたい|210 
+with ... Ving|…がＶしている状態で|336 
+with ... 形容詞句|…が＜形容詞句＞である状態で|185 
+with ... 前置詞句|…が＜前置詞句＞にある状態で|168|254|352
+with a view to Ving|Ｖする目的で|409 
+(with) all things considered|全てを考慮に入れると|413 
+with ease|たやすく，容易に|181 
+with/in regard to ...|…に関して|196 
+withhold A from B|AをBに与えないでおく|154 
+within ... distance|…な［…できる］距離に|354 
+without (a) trace|跡形もなく|107 
+work ... out|…を解決する|101 
+work for ...|…に勤めている|2 
+work late|残業をする|250 
+Would it be all right if ～ ?|～してもかまいませんか？|327 
+would like ... to Vb|…にＶしてほしい|394 
+would like to Vb|Ｖしたい|21 
+would love to Vb|とてもＶしたい|103 
+would rather V1 (than V2)|（V2するよりも）むしろV1したい|183 
+would rather (that) ～|～してほしいと思う|330 
+Would you like to Vb?|Ｖするのはいかがですか？|103 
+Would you mind Ving?|Ｖしてもらってかまいませんか？|126 
+write ... down|…を書き留める|288 
+yet another ...|さらに別の一つの…|101 
+yield to ...|…に屈する|98 
+You can say that again.|全く同感です。|366 
+You might want [like] to Vb.|（あなたは）Ｖした方がよいかもしれない。|63 
+You're right.|その通りです。|339 
+S, Vp.p., V ...|Ｓは，Ｖされて［Ｖされながら］，Ｖする。|33 
+S, 形容詞句, V ...|Sは＜形容詞＞（の状態）でＶする。|414 
+形容詞, S + V ...|＜形容詞＞（の状態）でSはＶする。|264 
+比較級 and 比較級|どんどんより…|409 
+比較級 than any other ...|いかなる他の…よりも|403 
+命令文, will you?|…してくれませんか？|285 
