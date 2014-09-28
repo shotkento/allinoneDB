@@ -4,5 +4,6 @@ create table sentence_tbl (
 	jpn_sent_order text not null,
 	jpn_sent_normal text not null,
 	correct integer not null,
-	count integer not null
+	count integer not null,
+        checked integer not null
 );
